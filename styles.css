@@ -103,6 +103,7 @@
             max-width: 400px;
             display: block;
             margin: auto;
+            justify-content: center;
         }
         
         .hero .hero-heading {
@@ -131,6 +132,7 @@
         
         .section t {
             background-color: var(--primary-color);
+            text-align: center;
         }
         /****footer*****/
         
