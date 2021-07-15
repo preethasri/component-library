@@ -100,10 +100,9 @@
         }
         
         .hero .hero-img {
-            max-width: 400px;
+            max-width: 600px;
             display: block;
             margin: auto;
-            height: 50vh;
         }
         
         .hero .hero-heading {
@@ -130,15 +129,8 @@
             text-align: center;
         }
         
-        .ow {
+        .section t {
             background-color: var(--primary-color);
-            vertical-align: middle;
-            justify-content: center;
-            text-align: center;
-            margin-left: 30%;
-            margin-right: 30%;
-            margin-top: 5%;
-            margin-bottom: 5%;
         }
         /****footer*****/
         
