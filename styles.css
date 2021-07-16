@@ -75,6 +75,7 @@
             color: white;
             padding: 1rem;
             border-bottom-left-radius: 1rem;
+            width: 100%;
         }
         
         .navigation-container .nav-pills {
@@ -138,6 +139,7 @@
             text-align: center;
             color: white;
             border-top-right-radius: 1rem;
+            width: 100%;
         }
         
         .footer .footer-header {
@@ -160,5 +162,3 @@
         .highlights {
             color: var(--primary-color);
         }
-        
-       
