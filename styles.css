@@ -6,12 +6,13 @@
         }
         
         body {
-            font-family: 'Montserrat', sans-serif;
-            margin: 0px;
+            font-family: 'Alex Brush', cursive;
+            margin: 0;
             background-color: black;
             color: white;
             font-size: large;
             font-weight: bold;
+            height: 100%;
         }
         
         hr {
@@ -115,22 +116,18 @@
         .hero .hero-heading .heading-inverted {
             color: var(--primary-color);
         }
-        /***section***/
+        /******section****/
         
-        .section p {
-            padding: 2rem;
+        .section {
             background-color: var(--primary-color);
-        }
-        
-        section b {
-            background-color: var(--primary-color);
+            display: inline;
         }
         
         .section h1 {
             text-align: center;
         }
         
-        .section t {
+        .section-ow {
             background-color: var(--primary-color);
             text-align: center;
         }
